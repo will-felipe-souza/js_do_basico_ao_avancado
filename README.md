@@ -1,4 +1,4 @@
-# Curso JavaScript do Básico ao Avanãdo
+# Curso JavaScript do Básico ao Avançado
 
 Curso realizado através da plataforma Udemy, com o professor Matheus Battisti.
 
